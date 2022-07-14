@@ -1,0 +1,2 @@
+I'm Jyothis and I am working as a Technology Analyst in Infosys Ltd. This repository contains small small codes which I wrote during learning Python coding.
+Please feel free to share me any new ideas or cool methods to improve my coding.
